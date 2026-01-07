@@ -1,5 +1,6 @@
-.venv
-build
-dist
+.venv/
+build/
+dist/
+.idea/
 ffprobe
 video_duration.ico
